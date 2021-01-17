@@ -1,16 +1,14 @@
 # A NLP Approach to Behavioral Finance: Sentiment-augmented GARCH of Dollar-Peso Exchange Rate Volatility
-This project is a part of the [Data Science Working Group](http://datascience.codeforsanfrancisco.org) at [Code for San Francisco](http://www.codeforsanfrancisco.org).  Other DSWG projects can be found at the [main GitHub repo](https://github.com/sfbrigade/data-science-wg).
 
-#### -- Project Status: [Active, On-Hold, Completed]
+
+#### -- Project Status: [Active]
 
 ## Project Intro/Objective
 The purpose of this project is ________. (Describe the main goals of the project and potential civic impact. Limit to a short paragraph, 3-6 Sentences)
 
 ### Partner
-* [Name of Partner organization/Government department etc..]
-* Website for partner
-* Partner contact: [Name of Contact], [slack handle of contact if any]
-* If you do not have a partner leave this section out
+* Master in Economic Theory at Instituto Tecnológico Autónomo de México (ITAM)
+* Supervised by Professor Ignacio N. Lobato ([website](https://sites.google.com/site/ignacionlobato/))
 
 ### Methods Used
 * Inferential Statistics
