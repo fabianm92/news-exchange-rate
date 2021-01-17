@@ -1,31 +1,29 @@
-# A NLP Approach to Behavioral Finance: Sentiment-augmented GARCH of Dollar-Peso Exchange Rate Volatility
+# A NLP Approach to Behavioral Finance: Sentiment-augmented GARCH of USD-MXN XR
 
 
-#### -- Project Status: [Active]
+#### Project Status: [Active]
 
-## Project Intro/Objective
-The purpose of this project is ________. (Describe the main goals of the project and potential civic impact. Limit to a short paragraph, 3-6 Sentences)
-
-### Partner
-* Dissertation thesis for the [Master's in Economic Theory program](https://posgrados.itam.mx/en) at Instituto Tecnológico Autónomo de México (ITAM)
+## Intro
+This research project aims to enhance our understanding of the investors' sentiment role in their investing behavior. Leveraging an original dataset collected using the NYT News public API, I construct a daily (weekly) index of investors's polarity towards Mexico using different Natural Language Processing techniques for sentiment analysis, and employ a generalized autoregressive conditional heteroskedasticity in mean (GARCH-M) model to show the impact of
+investor sentiment on USD/MXN exchange rate levels.
+### Research Affiliation
+* Dissertation thesis for the [Master's in Economic Theory program](https://posgrados.itam.mx/en) at the Instituto Tecnológico Autónomo de México (ITAM)
 * Supervised by Professor Ignacio N. Lobato ([website](https://sites.google.com/site/ignacionlobato/))
 
 ### Methods Used
-* Inferential Statistics
+* Natural Language Processing
 * Machine Learning
-* Data Visualization
-* Predictive Modeling
-* etc.
+* Sentiment Analysis
+* Autoregressive Conditional Heteroskedasticity Model
+* Linear Regression
 
 ### Technologies
-* R
 * Python
-* D3
-* PostGres, MySql
-* Pandas, jupyter
-* HTML
-* JavaScript
-* etc.
+* Google Cloud
+* NYT News API, Banco de Mexico SIE API
+* Pandas, Numpy
+* NLTK
+* Matplotlib, Seaborn, Plotly
 
 ## Project Description
 (Provide more detailed overview of the project.  Talk a bit about your data sources and what questions and hypothesis you are exploring. What specific data analysis/visualization and modelling work are you using to solve the problem? What blockers and challenges are you facing?  Feel free to number or bullet point things here)
