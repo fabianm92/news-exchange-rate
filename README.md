@@ -7,7 +7,7 @@
 The purpose of this project is ________. (Describe the main goals of the project and potential civic impact. Limit to a short paragraph, 3-6 Sentences)
 
 ### Partner
-* Master in Economic Theory at Instituto Tecnológico Autónomo de México (ITAM)
+* Dissertation thesis for the [Master's in Economic Theory program](https://posgrados.itam.mx/en) at Instituto Tecnológico Autónomo de México (ITAM)
 * Supervised by Professor Ignacio N. Lobato ([website](https://sites.google.com/site/ignacionlobato/))
 
 ### Methods Used
