@@ -1,4 +1,4 @@
-# A NLP Approach to Behavioral Finance: Sentiment-augmented GARCH of USD/MXN exchange rate
+# A NLP Approach to Behavioral Finance: Sentiment-augmented GARCH of USD/MXN Exchange Rate
 
 
 #### Project Status: [Active]
