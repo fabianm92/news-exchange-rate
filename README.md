@@ -1,10 +1,10 @@
-# A NLP Approach to Behavioral Finance: Sentiment-augmented GARCH of USD-MXN XR
+# A NLP Approach to Behavioral Finance: Sentiment-augmented GARCH of USD/MXN exchange rate
 
 
 #### Project Status: [Active]
 
 ## Intro
-This research project aims to enhance our understanding of the investors' sentiment role in their investing behavior. Leveraging an original dataset collected using the NYT News public API, I construct a daily (weekly) index of investors's polarity towards Mexico using different Natural Language Processing techniques for sentiment analysis, and employ a generalized autoregressive conditional heteroskedasticity in mean (GARCH-M) model to show the impact of
+This research project aims to enhance our understanding of the investors' sentiment role in their investing behavior. Leveraging an original dataset collected using the NYT News public API, I construct a daily index of investors's polarity towards Mexico using three different natural language processing (NLP) techniques for sentiment analysis, and employ a generalized autoregressive conditional heteroskedasticity (GARCH) model to show the impact of
 investor sentiment on USD/MXN exchange rate levels.
 ### Research Affiliation
 * Dissertation thesis for the [Master's in Economic Theory program](https://posgrados.itam.mx/en) at the Instituto Tecnológico Autónomo de México (ITAM)
@@ -25,6 +25,7 @@ investor sentiment on USD/MXN exchange rate levels.
 * NLTK
 * Matplotlib, Seaborn, Plotly
 
+# (WIP)
 ## Project Description
 (Provide more detailed overview of the project.  Talk a bit about your data sources and what questions and hypothesis you are exploring. What specific data analysis/visualization and modelling work are you using to solve the problem? What blockers and challenges are you facing?  Feel free to number or bullet point things here)
 
@@ -57,18 +58,5 @@ investor sentiment on USD/MXN exchange rate levels.
 * [Blog Post](link)
 
 
-## Contributing DSWG Members
-
-**Team Leads (Contacts) : [Full Name](https://github.com/[github handle])(@slackHandle)**
-
-#### Other Members:
-
-|Name     |  Slack Handle   |
-|---------|-----------------|
-|[Full Name](https://github.com/[github handle])| @johnDoe        |
-|[Full Name](https://github.com/[github handle]) |     @janeDoe    |
-
 ## Contact
-* If you haven't joined the SF Brigade Slack, [you can do that here](http://c4sf.me/slack).
-* Our slack channel is `#datasci-projectname`
-* Feel free to contact team leads with any questions or if you are interested in contributing!
+* vfmart92@gmail.com
